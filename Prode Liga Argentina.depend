@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1704056883 source:d:\unla\primer año\programación de computadoras\ejercicios c en codeblocks\prode liga argentina mejorado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"prode.h"
+
+1704057177 d:\unla\primer año\programación de computadoras\ejercicios c en codeblocks\prode liga argentina mejorado\prode.h
+
+1704057014 source:d:\unla\primer año\programación de computadoras\ejercicios c en codeblocks\prode liga argentina mejorado\prode.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"prode.h"
+
